@@ -1,0 +1,61 @@
+h1{
+    color: blue;
+}
+
+#header{
+    background-color: burlywood;
+    text-align: center;
+}
+
+blockquote{
+    background-color: orange;
+    border: 1px dotted black;
+}
+
+.gambar{
+    text-align: center;
+}
+
+.nav{
+    text-align: center;
+}
+
+.nav ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+.nav ul li{
+    margin: 0em 1em;
+}
+.jawa{
+    color: blue;
+    font-size: 50px;
+    font-weight: bold
+}
+
+.koleksi{
+    background-color: bisque;
+}
+
+.koleksi img{
+    width: 23%;
+}
+
+body{
+    background-color:lemonchiffon;
+}
+
+.promo {
+    margin: auto;
+            width: 50%;
+            margin-left: auto;
+            margin-right: auto;
+
+    background-color: lightblue;
+            border: 1px dotted red;
+            text-align: center;
+            font-weight: bold;
+            color: blue;
+}
